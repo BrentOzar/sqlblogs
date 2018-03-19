@@ -65,7 +65,7 @@
       <outline type="rss" text="New Row » Feed" title="New Row » Feed" xmlUrl="http://www.martinguth.de/feed/" htmlUrl="http://www.martinguth.de"/>
       <outline type="rss" text="Dan Blank" title="Dan Blank" xmlUrl="https://danblank.co.uk/feed/" htmlUrl="https://danblank.co.uk"/>
       <outline type="rss" text="JamieMac's WebLog" title="JamieMac's WebLog" xmlUrl="http://blogs.msdn.com/jamiemac/atom.xml" htmlUrl="https://blogs.msdn.microsoft.com/jamiemac"/>
-      <outline type="rss" text="blog - sheldonhull" title="blog - sheldonhull" xmlUrl="https://www.sheldonhull.com/blog?category=tech,sql-server&amp;format=rss" htmlUrl="https://www.sheldonhull.com/blog/"/>
+      <outline type="rss" text="Sheldon Hull" title="Sheldon Hull Blog" xmlUrl="https://www.sheldonhull.com/tags/tech/feed.xml" htmlUrl="https://www.sheldonhull.com"/>
       <outline type="rss" text="The Cranky DBA" title="The Cranky DBA" xmlUrl="http://thecrankydba.com/feed/" htmlUrl="http://mikehillwig.com"/>
       <outline type="rss" text="Microsoft SQL Server Release Services" title="Microsoft SQL Server Release Services" xmlUrl="http://blogs.msdn.com/sqlreleaseservices/rss.xml" htmlUrl="https://blogs.msdn.microsoft.com/sqlreleaseservices"/>
       <outline type="rss" text="AlwaysOn Professional" title="AlwaysOn Professional" xmlUrl="http://blogs.msdn.com/b/alwaysonpro/rss.aspx" htmlUrl="https://blogs.msdn.microsoft.com/alwaysonpro"/>
