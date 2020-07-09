@@ -1,210 +1,234 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <opml version="1.0">
-  <head>
-    <title>Brent subscriptions in feedly Cloud</title>
-  </head>
-  <body>
-      <outline text="SQL Aggregators" title="SQL Aggregators">
-          <outline type="rss" text="SQLServerCentral.com" title="SQLServerCentral.com" xmlUrl="http://www.sqlservercentral.com/blogs/MainFeed.aspx" htmlUrl="https://www.sqlservercentral.com"/>
-          <outline type="rss" text="Simple Talk rss feed" title="Simple Talk rss feed" xmlUrl="http://www.simple-talk.com/feed/" htmlUrl="https://www.red-gate.com/simple-talk"/>
-      </outline>
-      <outline text="SQL" title="SQL">
-          <outline type="rss" text="skreebydba" title="skreebydba" xmlUrl="http://skreebydba.com/feed/" htmlUrl="https://skreebydba.com"/>
-          <outline type="rss" text="Todd Kleinhans" title="Todd Kleinhans" xmlUrl="https://toddkleinhans.wordpress.com/feed/" htmlUrl="https://toddkleinhans.wordpress.com"/>
-          <outline type="rss" text="Michael Swart, Database Whisperer" title="Michael Swart, Database Whisperer" xmlUrl="http://feeds.feedburner.com/MichaelSwart" htmlUrl="https://michaeljswart.com"/>
-          <outline type="rss" text="Deb the DBA" title="Deb the DBA" xmlUrl="https://debthedba.wordpress.com/feed/" htmlUrl="https://debthedba.wordpress.com"/>
-          <outline type="rss" text="Born SQL" title="Born SQL" xmlUrl="https://bornsql.ca/feed/" htmlUrl="https://bornsql.ca"/>
-          <outline type="rss" text="Josh the Coder" title="Josh the Coder" xmlUrl="http://joshthecoder.com/feed.xml" htmlUrl="http://joshthecoder.com/"/>
-          <outline type="rss" text="Ryan Adams Blog" title="Ryan Adams Blog" xmlUrl="http://feeds.feedburner.com/RyanAdamsBlog" htmlUrl="https://www.ryanjadams.com"/>
-          <outline type="rss" text="The SQL Herald" title="The SQL Herald" xmlUrl="http://joedantoni.wordpress.com/feed/" htmlUrl="https://joeydantoni.com"/>
-          <outline type="rss" text="Paul Turley" title="Paul Turley" xmlUrl="http://sqlserverbiblog.wordpress.com/feed/" htmlUrl="https://sqlserverbi.blog"/>
-          <outline type="rss" text="Ingeniously Simple" title="Ingeniously Simple" xmlUrl="https://medium.com/feed/ingeniouslysimple" htmlUrl="https://medium.com/ingeniouslysimple?source=rss----5a730ab341ce---4"/>
-          <outline type="rss" text="Befriending Dragons" title="Befriending Dragons" xmlUrl="http://cindygross.wordpress.com/feed/" htmlUrl="https://cindygross.wordpress.com"/>
-          <outline type="rss" text="Ben Miller (@DBAduck)" title="Ben Miller (@DBAduck)" xmlUrl="http://dbaduck.com/feed/" htmlUrl="https://dbaduck.com"/>
-          <outline type="rss" text="{coding}Sight" title="{coding}Sight" xmlUrl="http://codingsight.com/feed/" htmlUrl="https://codingsight.com"/>
-          <outline type="rss" text="Sql Quantum Leap" title="Sql Quantum Leap" xmlUrl="https://sqlquantumleap.com/feed/" htmlUrl="https://sqlquantumleap.com"/>
-          <outline type="rss" text="Erin Stellato" title="Erin Stellato" xmlUrl="http://www.sqlskills.com/blogs/erin/feed/" htmlUrl="https://www.sqlskills.com/blogs/erin"/>
-          <outline type="rss" text="coding family" title="coding family" xmlUrl="https://codingfamily.net/feed/" htmlUrl="https://codingfamily.net"/>
-          <outline type="rss" text="MSSQLTips - Latest SQL Server  Tips" title="MSSQLTips - Latest SQL Server  Tips" xmlUrl="http://feeds.feedburner.com/MSSQLTips-LatestSqlServerTips" htmlUrl="https://www.mssqltips.com/"/>
-          <outline type="rss" text="facility9" title="facility9" xmlUrl="http://facility9.com/feed/atom/" htmlUrl="https://facility9.com"/>
-          <outline type="rss" text="Thomas LaRock" title="Thomas LaRock" xmlUrl="http://feeds.feedburner.com/SQLRockstar" htmlUrl="https://thomaslarock.com"/>
-          <outline type="rss" text="Port 1433" title="Port 1433" xmlUrl="http://port1433.com/feed/" htmlUrl="https://port1433.com"/>
-          <outline type="rss" text="Code Juicer" title="Code Juicer" xmlUrl="https://codejuicer.com/feed/" htmlUrl="https://codejuicer.com"/>
-          <outline type="rss" text="Azure SQLDB Managed Instance" title="Azure SQLDB Managed Instance" xmlUrl="https://medium.com/feed/azure-sqldb-managed-instance" htmlUrl="https://medium.com/azure-sqldb-managed-instance?source=rss----654580dc67c6---4"/>
-          <outline type="rss" text="Victoria Holt" title="Victoria Holt" xmlUrl="http://blog.victoriaholt.co.uk/feeds/posts/default" htmlUrl="https://blog.victoriaholt.co.uk/"/>
-          <outline type="rss" text="SQL Undercover" title="SQL Undercover" xmlUrl="https://sqlundercover.com/feed/" htmlUrl="https://sqlundercover.com"/>
-          <outline type="rss" text="ZenBytes.Net" title="ZenBytes.Net" xmlUrl="http://zenbytes.net/?feed=rss2" htmlUrl="http://zenbytes.net"/>
-          <outline type="rss" text="David Klee" title="David Klee" xmlUrl="http://www.davidklee.net/feed/" htmlUrl="https://www.davidklee.net"/>
-          <outline type="rss" text="Erik Darling Data" title="Erik Darling Data" xmlUrl="http://erikdarlingdata.com/feed/" htmlUrl="https://www.erikdarlingdata.com"/>
-          <outline type="rss" text="The Desert DBA » Feed" title="The Desert DBA » Feed" xmlUrl="http://desertdba.com/feed/" htmlUrl="https://desertdba.com"/>
-          <outline type="rss" text="atom" title="atom" xmlUrl="https://github.com/joesackmsft.atom" htmlUrl="https://github.com/joesackmsft"/>
-          <outline type="rss" text="Another SQL Geek" title="Another SQL Geek" xmlUrl="http://anothersqlgeek.wordpress.com/feed/" htmlUrl="https://anothersqlgeek.wordpress.com"/>
-          <outline type="rss" text="SQLvariations: SQL Server, a little PowerShell, maybe some Hyper-V" title="SQLvariations: SQL Server, a little PowerShell, maybe some Hyper-V" xmlUrl="http://feeds.feedburner.com/Sqlvariations" htmlUrl="http://sqlvariant.com"/>
-          <outline type="rss" text="Paul S. Randal" title="Paul S. Randal" xmlUrl="http://feeds2.feedburner.com/PaulSRandal" htmlUrl="https://www.sqlskills.com/blogs/paul"/>
-          <outline type="rss" text="Brindle Solutions » Feed" title="Brindle Solutions » Feed" xmlUrl="http://www.brindlesolutions.com/feed/" htmlUrl="https://www.brindlesolutions.com"/>
-          <outline type="rss" text="Coeo Blog" title="Coeo Blog" xmlUrl="https://blog.coeo.com/rss.xml" htmlUrl="https://blog.coeo.com"/>
-          <outline type="rss" text="LobsterPot Blogs" title="LobsterPot Blogs" xmlUrl="http://blogs.lobsterpot.com.au/feed/" htmlUrl="http://blogs.lobsterpot.com.au"/>
-          <outline type="rss" text="James McGillivray » Feed" title="James McGillivray » Feed" xmlUrl="https://jimbabwe.co.za/feed/" htmlUrl="https://jimbabwe.co.za"/>
-          <outline type="rss" text="Tim Radney" title="Tim Radney" xmlUrl="http://www.sqlskills.com/blogs/tim/feed/" htmlUrl="https://www.sqlskills.com/blogs/tim"/>
-          <outline type="rss" text="Desert Isle SQL" title="Desert Isle SQL" xmlUrl="http://www.desertislesql.com/wordpress1/?feed=rss2" htmlUrl="https://www.desertislesql.com/wordpress1"/>
-          <outline type="rss" text="dansqldba.com » Feed" title="dansqldba.com » Feed" xmlUrl="https://dansqldba.com/feed/" htmlUrl="https://dansqldba.com"/>
-          <outline type="rss" text="SQLpassion" title="SQLpassion" xmlUrl="http://www.sqlpassion.at/feed/" htmlUrl="https://www.sqlpassion.at"/>
-          <outline type="rss" text="Brent Ozar" title="Brent Ozar" xmlUrl="http://feeds.feedburner.com/brent-ozar" htmlUrl="https://ozar.me"/>
-          <outline type="rss" text="All About SQL" title="All About SQL" xmlUrl="https://blobeater.blog/feed/" htmlUrl="https://blobeater.blog"/>
-          <outline type="rss" text="Glenn's SQL Server Performance" title="Glenn's SQL Server Performance" xmlUrl="https://glennsqlperformance.com/feed/" htmlUrl="https://glennsqlperformance.com"/>
-          <outline type="rss" text="DataHelge" title="DataHelge" xmlUrl="https://www.datahelge.no/feed/" htmlUrl="https://www.datahelge.no"/>
-          <outline type="rss" text="SQLAgentMan" title="SQLAgentMan" xmlUrl="http://www.ford-it.com/sqlagentman/?feed=rss2" htmlUrl="http://www.ford-it.com/sqlagentman"/>
-          <outline type="rss" text="Enrico van de Laar" title="Enrico van de Laar" xmlUrl="https://www.enricovandelaar.com/feed/" htmlUrl="https://www.enricovandelaar.com"/>
-          <outline type="rss" text="SQL Server Support articles" title="SQL Server Support articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SQLServerSupport" htmlUrl="https://techcommunity.microsoft.com/t5/SQL-Server-Support/bg-p/SQLServerSupport"/>
-          <outline type="rss" text="SQL DBA with A Beard" title="SQL DBA with A Beard" xmlUrl="http://sqldbawithabeard.com/feed/" htmlUrl="https://sqldbawithabeard.com"/>
-          <outline type="rss" text="Niko Neugebauer" title="Niko Neugebauer" xmlUrl="http://www.nikoport.com/feed/" htmlUrl="http://www.nikoport.com"/>
-          <outline type="rss" text="Mitch Wheat" title="Mitch Wheat" xmlUrl="https://mitchwheat.com/feed/" htmlUrl="https://mitchwheat.com"/>
-          <outline type="rss" text="Jim Donahoe – SQLFlipFlopsDBA" title="Jim Donahoe – SQLFlipFlopsDBA" xmlUrl="http://sqlflipflopsdba.com/feed/" htmlUrl="http://sqlflipflopsdba.com"/>
-          <outline type="rss" text="Mr. Fox SQL" title="Mr. Fox SQL" xmlUrl="https://mrfoxsql.wordpress.com/feed/" htmlUrl="https://mrfoxsql.wordpress.com"/>
-          <outline type="rss" text="Randolph West » Feed" title="Randolph West » Feed" xmlUrl="https://rabryst.ca/feed/" htmlUrl="https://randolphwest.ca"/>
-          <outline type="rss" text="Women – Technology – Society" title="Women – Technology – Society" xmlUrl="https://witsociety.wordpress.com/feed/" htmlUrl="https://witsociety.wordpress.com"/>
-          <outline type="rss" text="Centino Systems Blog" title="Centino Systems Blog" xmlUrl="http://www.centinosystems.com/blog/feed/" htmlUrl="http://www.centinosystems.com/blog"/>
-          <outline type="rss" text="Kendra Little's Blog" title="Kendra Little's Blog" xmlUrl="http://littlekendra.com/feed/" htmlUrl="https://littlekendra.com"/>
-          <outline type="rss" text="Arcane Code" title="Arcane Code" xmlUrl="http://arcanecode.wordpress.com/feed/" htmlUrl="https://arcanecode.com"/>
-          <outline type="rss" text="New Row » Feed" title="New Row » Feed" xmlUrl="http://www.martinguth.de/feed/" htmlUrl="http://www.martinguth.de"/>
-          <outline type="rss" text="Taryn Pratt" title="Taryn Pratt" xmlUrl="https://tarynpivots.com/index.xml" htmlUrl="https://tarynpivots.com/"/>
-          <outline type="rss" text="SQLGene Training" title="SQLGene Training" xmlUrl="http://www.sqlgene.com/feed/" htmlUrl="https://www.sqlgene.com"/>
-          <outline type="rss" text="Under the kover of business intelligence" title="Under the kover of business intelligence" xmlUrl="http://sqlkover.com/feed/" htmlUrl="https://sqlkover.com"/>
-          <outline type="rss" text="Andy M Mallon – AM²" title="Andy M Mallon – AM²" xmlUrl="http://am2.co/feed/" htmlUrl="https://am2.co"/>
-          <outline type="rss" text="dotnetvibes" title="dotnetvibes" xmlUrl="https://dotnetvibes.com/feed/" htmlUrl="https://samirbehara.com"/>
-          <outline type="rss" text="No Column Name" title="No Column Name" xmlUrl="https://nocolumnname.wordpress.com/feed/" htmlUrl="https://nocolumnname.blog"/>
-          <outline type="rss" text="InfoAdvisors" title="InfoAdvisors" xmlUrl="http://blog.infoadvisors.com/index.php/feed/" htmlUrl="http://www.datamodel.com"/>
-          <outline type="rss" text="GroupBy" title="GroupBy" xmlUrl="https://groupby.org/feed/" htmlUrl="https://groupby.org"/>
-          <outline type="rss" text="RSS Feed" title="RSS Feed" xmlUrl="https://www.coatesdatastrategies.com/blog?format=RSS" htmlUrl="https://www.coatesdatastrategies.com/blog/"/>
-          <outline type="rss" text="Mohammad Darab" title="Mohammad Darab" xmlUrl="https://mohammaddarab.com/feed/" htmlUrl="https://mohammaddarab.com"/>
-          <outline type="rss" text="Arthur's blog" title="Arthur's blog" xmlUrl="http://www.dba-art.com/feed/" htmlUrl="https://www.dba-art.com"/>
-          <outline type="rss" text="SQL in the Wild" title="SQL in the Wild" xmlUrl="http://sqlinthewild.co.za/index.php/feed/" htmlUrl="https://sqlinthewild.co.za"/>
-          <outline type="rss" text="Super Scaling Queues Using the LMax Disruptor Pattern" title="Super Scaling Queues Using the LMax Disruptor Pattern" xmlUrl="http://chrisadkin.org/feed/" htmlUrl="https://chrisadkin.io"/>
-          <outline type="rss" text="Home on sheldonhull.com" title="Home on sheldonhull.com" xmlUrl="https://www.sheldonhull.com/tags/tech/feed.xml" htmlUrl="https://www.sheldonhull.com/"/>
-          <outline type="rss" text="SQL Melody" title="SQL Melody" xmlUrl="https://www.sqlmelody.com/feed/" htmlUrl="https://www.sqlmelody.com"/>
-          <outline type="rss" text="Clustering For Mere Mortals" title="Clustering For Mere Mortals" xmlUrl="http://clusteringformeremortals.com/feed/" htmlUrl="https://clusteringformeremortals.com"/>
-          <outline type="rss" text="sqlfingers.com" title="sqlfingers.com" xmlUrl="http://www.sqlfingers.com/feeds/posts/default" htmlUrl="http://www.sqlfingers.com/"/>
-          <outline type="rss" text="DallasDBAs.com" title="DallasDBAs.com" xmlUrl="http://dallasdbas.com/feed/" htmlUrl="https://dallasdbas.com"/>
-          <outline type="rss" text="Reitse's blog » Feed" title="Reitse's blog » Feed" xmlUrl="https://sqlreitse.home.blog/feed/" htmlUrl="https://sqlreitse.home.blog"/>
-          <outline type="rss" text="Tracy Boggiano's SQL Server Blog" title="Tracy Boggiano's SQL Server Blog" xmlUrl="http://tracyboggiano.com/feed/" htmlUrl="https://tracyboggiano.com"/>
-          <outline type="rss" text="SQL Server with Mr. Denny" title="SQL Server with Mr. Denny" xmlUrl="http://itknowledgeexchange.techtarget.com/sql-server/feed/" htmlUrl="https://itknowledgeexchange.techtarget.com/sql-server"/>
-          <outline type="rss" text="SQLKohai - always a student » Feed" title="SQLKohai - always a student » Feed" xmlUrl="http://www.sqlkohai.com/feed/" htmlUrl="http://www.sqlkohai.com"/>
-          <outline type="rss" text="Gethyn Ellis - SQL Server, BI, Analytics, Cloud and Architecture" title="Gethyn Ellis - SQL Server, BI, Analytics, Cloud and Architecture" xmlUrl="http://www.gethynellis.com/feeds/posts/default" htmlUrl="https://www.gethynellis.com/"/>
-          <outline type="rss" text="Wayne Sheffield" title="Wayne Sheffield" xmlUrl="http://blog.waynesheffield.com/wayne/feed/" htmlUrl="https://blog.waynesheffield.com/wayne"/>
-          <outline type="rss" text="SQLSwimmer" title="SQLSwimmer" xmlUrl="http://sqlswimmer.wordpress.com/feed/" htmlUrl="https://sqlswimmer.com"/>
-          <outline type="rss" text="Brent Ozar - SQL Server DBA" title="Brent Ozar - SQL Server DBA" xmlUrl="http://feeds.feedburner.com/BrentOzar-SqlServerDba" htmlUrl="https://www.brentozar.com"/>
-          <outline type="rss" text="SQL Server Consulting – Straight Path Solutions" title="SQL Server Consulting – Straight Path Solutions" xmlUrl="http://feeds.feedburner.com/StraightpathSolutionsSqlBlog" htmlUrl="http://straightpathsql.com"/>
-          <outline type="rss" text="Kevin Farlee [MSFT]'s Recent Activity" title="Kevin Farlee [MSFT]'s Recent Activity" xmlUrl="https://social.technet.microsoft.com:443/Profile/u/activities/feed?displayName=Kevin%20Farlee%20%5BMSFT%5D" htmlUrl="http://social.technet.microsoft.com/Profile/v1/Kevin%20Farlee%20%5BMSFT%5D/activity"/>
-          <outline type="rss" text="SchottSQL" title="SchottSQL" xmlUrl="https://schottsql.wordpress.com/feed/" htmlUrl="http://schottsql.com"/>
-          <outline type="rss" text="SQLServerUpdates.com" title="SQLServerUpdates.com" xmlUrl="http://sqlserverupdates.com/feed/" htmlUrl="https://sqlserverupdates.com"/>
-          <outline type="rss" text="Jess Pomfret" title="Jess Pomfret" xmlUrl="https://jesspomfret.com/feed/" htmlUrl="https://jesspomfret.com"/>
-          <outline type="rss" text="youdidwhatwithtsql.com" title="youdidwhatwithtsql.com" xmlUrl="http://www.youdidwhatwithtsql.com/feed" htmlUrl="http://www.youdidwhatwithtsql.com"/>
-          <outline type="rss" text="SQL Server articles" title="SQL Server articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SQLServer" htmlUrl="https://techcommunity.microsoft.com/t5/SQL-Server/bg-p/SQLServer"/>
-          <outline type="rss" text="Sunday morning T" title="Sunday morning T" xmlUrl="http://sqlsunday.com/feed/" htmlUrl="https://sqlsunday.com"/>
-          <outline type="rss" text="Ned Otter Blog" title="Ned Otter Blog" xmlUrl="http://nedotter.com/feed/" htmlUrl="http://nedotter.com"/>
-          <outline type="rss" text="SQL Shack – articles about database auditing, server performance, data recovery, and more" title="SQL Shack – articles about database auditing, server performance, data recovery, and more" xmlUrl="http://www.sqlshack.com/feed/" htmlUrl="https://www.sqlshack.com"/>
-          <outline type="rss" text="MarlonRibunal.com" title="MarlonRibunal.com" xmlUrl="http://feeds.feedburner.com/MarlonRibunal" htmlUrl="https://marlonribunal.com"/>
-          <outline type="rss" text="String or binary data would be truncated" title="String or binary data would be truncated" xmlUrl="http://blog.bartekr.net/feed/" htmlUrl="https://blog.bartekr.net"/>
-          <outline type="rss" text="Caffeinated Data Science" title="Caffeinated Data Science" xmlUrl="http://buckwoody.wordpress.com/feed/" htmlUrl="https://buckwoody.wordpress.com"/>
-          <outline type="rss" text="Project Botticelli" title="Project Botticelli" xmlUrl="http://projectbotticelli.com/rss.xml" htmlUrl="https://projectbotticelli.com/news"/>
-          <outline type="rss" text="SQL Data Partners" title="SQL Data Partners" xmlUrl="http://sqldatapartners.com/feed/" htmlUrl="http://sqldatapartners.com"/>
-          <outline type="rss" text="Garry Bargsley" title="Garry Bargsley" xmlUrl="http://blog.garrybargsley.com/feed/" htmlUrl="https://garrybargsley.com"/>
-          <outline type="rss" text="The Non-Cluttered Index" title="The Non-Cluttered Index" xmlUrl="https://thenonclutteredindex.com/feed/" htmlUrl="https://thenonclutteredindex.com"/>
-          <outline type="rss" text="SQLAndy" title="SQLAndy" xmlUrl="http://feeds.feedburner.com/itdepends" htmlUrl="https://sqlandy.com"/>
-          <outline type="rss" text="DBA From The Cold" title="DBA From The Cold" xmlUrl="http://dbafromthecold.wordpress.com/feed/" htmlUrl="https://dbafromthecold.com"/>
-          <outline type="rss" text="Cláudio Silva's Blog" title="Cláudio Silva's Blog" xmlUrl="https://claudioessilva.eu/feed/" htmlUrl="https://claudioessilva.eu"/>
-          <outline type="rss" text="36 Chambers – The Legendary Journeys: Execution to the max!" title="36 Chambers – The Legendary Journeys: Execution to the max!" xmlUrl="http://36chambers.wordpress.com/feed/" htmlUrl="https://36chambers.wordpress.com"/>
-          <outline type="rss" text="Kevin E. Kline" title="Kevin E. Kline" xmlUrl="http://kevinekline.com/feed/" htmlUrl="https://kevinekline.com"/>
-          <outline type="rss" text="Data Savvy" title="Data Savvy" xmlUrl="http://datasavvy.wordpress.com/feed/" htmlUrl="https://datasavvy.me"/>
-          <outline type="rss" text="SQLPerformance.com" title="SQLPerformance.com" xmlUrl="http://www.sqlperformance.com/feed" htmlUrl="https://sqlperformance.com"/>
-          <outline type="rss" text="AndyLeonard.blog()" title="AndyLeonard.blog()" xmlUrl="http://andyleonard.blog/feed/" htmlUrl="https://andyleonard.blog"/>
-          <outline type="rss" text="SQL TECH BLOG" title="SQL TECH BLOG" xmlUrl="https://sqltechblog.com/feed/" htmlUrl="https://sqltechblog.com"/>
-          <outline type="rss" text="DrewSK » Feed" title="DrewSK » Feed" xmlUrl="https://www.drewsk.tech/feed/" htmlUrl="https://www.drewsk.tech"/>
-          <outline type="rss" text="Sql Rnnr » Sql Rnnr" title="Sql Rnnr » Sql Rnnr" xmlUrl="http://jasonbrimhall.info/feed/" htmlUrl="https://jasonbrimhall.info"/>
-          <outline type="rss" text="George Stocker" title="George Stocker" xmlUrl="http://georgestocker.com/feed/" htmlUrl="https://georgestocker.com"/>
-          <outline type="rss" text="SQL Doch" title="SQL Doch" xmlUrl="https://blog.sqldoch.ca/feeds/posts/default" htmlUrl="https://blog.sqldoch.ca/"/>
-          <outline type="rss" text="sql.sasquatch" title="sql.sasquatch" xmlUrl="http://sql-sasquatch.blogspot.com/feeds/posts/default" htmlUrl="http://sql-sasquatch.blogspot.com/"/>
-          <outline type="rss" text="The SQL Professor" title="The SQL Professor" xmlUrl="http://chrisyatessql.wordpress.com/feed/" htmlUrl="https://chrisyatessql.com"/>
-          <outline type="rss" text="The BIccountant" title="The BIccountant" xmlUrl="http://www.thebiccountant.com/feed/" htmlUrl="https://www.thebiccountant.com"/>
-          <outline type="rss" text="The Agile SQL Club" title="The Agile SQL Club" xmlUrl="http://feeds.feedburner.com/agilesql/Blog" htmlUrl="https://the.agilesql.club/"/>
-          <outline type="rss" text="boB 'The ToolMan' Taylor » Feed" title="boB 'The ToolMan' Taylor » Feed" xmlUrl="http://www.sqlbobt.com/feed/" htmlUrl="http://www.sqlbobt.com"/>
-          <outline type="rss" text=" Database Administration, Development and Analysis - RSS" title=" Database Administration, Development and Analysis - RSS" xmlUrl="https://www.sqlguatemala.com/feeds/posts/default?alt=rss" htmlUrl="https://www.sqlguatemala.com/"/>
-          <outline type="rss" text="spaghettidba" title="spaghettidba" xmlUrl="http://spaghettidba.com/feed/" htmlUrl="https://spaghettidba.com"/>
-          <outline type="rss" text="Dave Bland » Feed" title="Dave Bland » Feed" xmlUrl="http://davebland.com/feed" htmlUrl="http://davebland.com"/>
-          <outline type="rss" text="Allan Hirt's SQL Server Blog" title="Allan Hirt's SQL Server Blog" xmlUrl="http://www.sqlha.com/Blog/syndication.axd?format=rss" htmlUrl="https://sqlha.com"/>
-          <outline type="rss" text="FLX SQL with Andy Levy" title="FLX SQL with Andy Levy" xmlUrl="https://flxsql.com/feed/" htmlUrl="https://flxsql.com"/>
-          <outline type="rss" text="Bob Pusateri - The Outer Join" title="Bob Pusateri - The Outer Join" xmlUrl="http://www.bobpusateri.com/feed/" htmlUrl="https://www.bobpusateri.com"/>
-          <outline type="rss" text="Andrea Allred presents RoyalSQL" title="Andrea Allred presents RoyalSQL" xmlUrl="http://royalsql.com/feed/" htmlUrl="https://royalsql.com"/>
-          <outline type="rss" text="netnerds.net" title="netnerds.net" xmlUrl="http://blog.netnerds.net/feed/" htmlUrl="https://blog.netnerds.net"/>
-          <outline type="rss" text="Made2Mentor" title="Made2Mentor" xmlUrl="http://www.made2mentor.com/?feed=atom" htmlUrl="http://www.made2mentor.com"/>
-          <outline type="rss" text="SQL Jana" title="SQL Jana" xmlUrl="http://sqljana.wordpress.com/feed/" htmlUrl="https://sqljana.wordpress.com"/>
-          <outline type="rss" text="SQL Server Code,Tips and Tricks, Performance Tuning" title="SQL Server Code,Tips and Tricks, Performance Tuning" xmlUrl="http://sqlservercode.blogspot.com/atom.xml" htmlUrl="http://sqlservercode.blogspot.com/"/>
-          <outline type="rss" text="Journey to SQL Authority with Pinal Dave" title="Journey to SQL Authority with Pinal Dave" xmlUrl="http://blog.sqlauthority.com/feed/" htmlUrl="https://blog.sqlauthority.com"/>
-          <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="http://cwebbbi.wordpress.com/feed/" htmlUrl="https://blog.crossjoin.co.uk"/>
-          <outline type="rss" text="Mark V SQL" title="Mark V SQL" xmlUrl="http://markvsql.com/feed/" htmlUrl="http://markvsql.com"/>
-          <outline type="rss" text="Notes on SQL" title="Notes on SQL" xmlUrl="https://sqlrambling.net/feed/" htmlUrl="https://sqlrambling.net"/>
-          <outline type="rss" text="Matthew McGiffen DBA" title="Matthew McGiffen DBA" xmlUrl="https://matthewmcgiffen.com/feed/" htmlUrl="https://matthewmcgiffen.com"/>
-          <outline type="rss" text="SQL Server Fast" title="SQL Server Fast" xmlUrl="https://SQLServerFast.com/feed/" htmlUrl="https://sqlserverfast.com"/>
-          <outline type="rss" text="SQL Server Consulting &amp; Remote DBA Service" title="SQL Server Consulting &amp; Remote DBA Service" xmlUrl="http://johnsterrett.com/feed/" htmlUrl="https://johnsterrett.com"/>
-          <outline type="rss" text="Databasejournal.com" title="Databasejournal.com" xmlUrl="http://www.databasejournal.com/icom_includes/feeds/dbjournal/xml_front-10.xml" htmlUrl="https://www.databasejournal.com"/>
-          <outline type="rss" text="SQL Player" title="SQL Player" xmlUrl="http://sqlplayer.net/feed" htmlUrl="https://sqlplayer.net"/>
-          <outline type="rss" text="The Data Platform Insider" title="The Data Platform Insider" xmlUrl="http://blogs.technet.com/dataplatforminsider/atom.xml" htmlUrl="https://cloudblogs.microsoft.com/sqlserver"/>
-          <outline type="rss" text="sql Records" title="sql Records" xmlUrl="http://sqlrecords.blogspot.com/feeds/posts/default" htmlUrl="http://sqlrecords.blogspot.com/"/>
-          <outline type="rss" text="SQL Studies" title="SQL Studies" xmlUrl="http://sqlstudies.com/feed/" htmlUrl="https://sqlstudies.com"/>
-          <outline type="rss" text="Paul's Electronics" title="Paul's Electronics" xmlUrl="http://www.sqlskills.com/blogs/paulselec/syndication.axd?format=rss" htmlUrl="http://www.sqlskills.com/blogs/paulselec/"/>
-          <outline type="rss" text="The Goal Keeping DBA" title="The Goal Keeping DBA" xmlUrl="http://gkdba.wordpress.com/feed/" htmlUrl="https://gkdba.wordpress.com"/>
-          <outline type="rss" text="Tim Mitchell" title="Tim Mitchell" xmlUrl="http://feeds2.feedburner.com/timmitchell" htmlUrl="https://www.timmitchell.net"/>
-          <outline type="rss" text="SQLMac" title="SQLMac" xmlUrl="https://sqlmac.com/feed/" htmlUrl="https://sqlmac.com"/>
-          <outline type="rss" text="Riepedia" title="Riepedia" xmlUrl="http://www.riepedia.net/feeds/posts/default" htmlUrl="http://www.riepedia.net/"/>
-          <outline type="rss" text="diligentdba" title="diligentdba" xmlUrl="http://diligentdba.wordpress.com/feed/" htmlUrl="https://diligentdba.com"/>
-          <outline type="rss" text="SQL Server Blog" title="SQL Server Blog" xmlUrl="http://blogs.technet.com/dataplatforminsider/rss.xml" htmlUrl="https://cloudblogs.microsoft.com/sqlserver"/>
-          <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="http://cwebbbi.spaces.live.com/feed.rss" htmlUrl="https://blog.crossjoin.co.uk"/>
-          <outline type="rss" text="Glenn Berry" title="Glenn Berry" xmlUrl="http://www.sqlskills.com/blogs/glenn/feed/" htmlUrl="https://www.sqlskills.com/blogs/glenn"/>
-          <outline type="rss" text="Kevin Chant » Feed" title="Kevin Chant » Feed" xmlUrl="https://www.kevinrchant.com/feed/" htmlUrl="https://www.kevinrchant.com"/>
-          <outline type="rss" text="Steve Stedman" title="Steve Stedman" xmlUrl="http://stevestedman.com/feed/" htmlUrl="https://stevestedman.com"/>
-          <outline type="rss" text="Cathrine Wilhelmsen" title="Cathrine Wilhelmsen" xmlUrl="http://www.cathrinewilhelmsen.net/feed/" htmlUrl="https://www.cathrinewilhelmsen.net"/>
-          <outline type="rss" text="Jonathan Kehayias" title="Jonathan Kehayias" xmlUrl="http://www.sqlskills.com/BLOGS/jonathan/syndication.axd" htmlUrl="https://www.sqlskills.com/blogs/jonathan"/>
-          <outline type="rss" text="The SERO Group" title="The SERO Group" xmlUrl="http://theserogroup.com/feed/" htmlUrl="http://theserogroup.com"/>
-          <outline type="rss" text="SQL Server Techniques" title="SQL Server Techniques" xmlUrl="http://slavasql.blogspot.com/feeds/posts/default" htmlUrl="http://slavasql.blogspot.com/"/>
-          <outline type="rss" text="Richard Lees on BI" title="Richard Lees on BI" xmlUrl="http://richardlees.blogspot.com/feeds/posts/default" htmlUrl="http://richardlees.blogspot.com/"/>
-          <outline type="rss" text="John Morehouse" title="John Morehouse" xmlUrl="http://sqlrus.com/feed/" htmlUrl="https://sqlrus.com"/>
-          <outline type="rss" text="Hydrate Consulting LLC" title="Hydrate Consulting LLC" xmlUrl="https://www.hydrate.consulting/blog/feed/" htmlUrl="https://www.hydrate.consulting/blog"/>
-          <outline type="rss" text="SQLBI" title="SQLBI" xmlUrl="http://feeds.feedburner.com/sqlbi_blog/" htmlUrl="https://www.sqlbi.com"/>
-          <outline type="rss" text="SQL aus Hamburg" title="SQL aus Hamburg" xmlUrl="http://www.sql-aus-hamburg.de/feed/" htmlUrl="https://www.sql-aus-hamburg.de"/>
-          <outline type="rss" text="SQL Server Consulting » Feed" title="SQL Server Consulting » Feed" xmlUrl="http://procuresql.com/feed/" htmlUrl="https://procuresql.com"/>
-          <outline type="rss" text="DataPerf Professionals" title="DataPerf Professionals" xmlUrl="http://dataperfpro.com/feed/" htmlUrl="http://dataperfpro.com"/>
-          <outline type="rss" text="Prodata Blog" title="Prodata Blog" xmlUrl="http://blogs.prodata.ie/syndication.axd" htmlUrl="http://blogs.prodata.ie/"/>
-          <outline type="rss" text="SQL with Bert" title="SQL with Bert" xmlUrl="https://bertwagner.com/feed/" htmlUrl="https://bertwagner.com"/>
-          <outline type="rss" text="Curious..about data" title="Curious..about data" xmlUrl="https://curiousaboutdata.com/feed/" htmlUrl="https://curiousaboutdata.com"/>
-          <outline type="rss" text="SQL Stad" title="SQL Stad" xmlUrl="http://www.sqlstad.nl/feed/" htmlUrl="https://www.sqlstad.nl"/>
-          <outline type="rss" text="Tibor Karaszi's SQL Server blog" title="Tibor Karaszi's SQL Server blog" xmlUrl="http://sqlblog.karaszi.com/feed/" htmlUrl="http://sqlblog.karaszi.com"/>
-          <outline type="rss" text="SqlWorldWide" title="SqlWorldWide" xmlUrl="http://sqlworldwide.com/feed/" htmlUrl="http://sqlworldwide.com"/>
-          <outline type="rss" text="PASS Blog" title="PASS Blog" xmlUrl="http://feeds.feedburner.com/Official_PASS_Blog" htmlUrl="https://www.pass.org/Community/PASSBlog.aspx"/>
-          <outline type="rss" text="Craig Porteous" title="Craig Porteous" xmlUrl="https://craigporteous.com/feed/" htmlUrl="https://craigporteous.com"/>
-          <outline type="rss" text="James Serra's Blog" title="James Serra's Blog" xmlUrl="http://feeds.feedburner.com/JamesSerra" htmlUrl="https://www.jamesserra.com"/>
-          <outline type="rss" text="MlakarTechTalk" title="MlakarTechTalk" xmlUrl="https://www.mlakartechtalk.com/feed/" htmlUrl="https://www.mlakartechtalk.com"/>
-          <outline type="rss" text="The Lone DBA" title="The Lone DBA" xmlUrl="http://thelonedba.wordpress.com/feed/" htmlUrl="https://thelonedba.wordpress.com"/>
-          <outline type="rss" text="SQLBlog" title="SQLBlog" xmlUrl="https://sqlblog.org/feed" htmlUrl="https://sqlblog.org"/>
-          <outline type="rss" text="Opinionated SQL" title="Opinionated SQL" xmlUrl="http://www.seangallardy.com/feed/" htmlUrl="http://www.seangallardy.com"/>
-          <outline type="rss" text="SQL Awesomesauce" title="SQL Awesomesauce" xmlUrl="http://www.midnightdba.com/Jen/feed/" htmlUrl="http://www.midnightdba.com/Jen"/>
-          <outline type="rss" text="Jen Stirrup's Business Intelligence Blog" title="Jen Stirrup's Business Intelligence Blog" xmlUrl="http://www.jenstirrup.com/feeds/posts/default" htmlUrl="https://jenstirrup.com"/>
-          <outline type="rss" text="Rich Benner – SQL Server Consulting" title="Rich Benner – SQL Server Consulting" xmlUrl="https://richbenner.com/feed/" htmlUrl="https://richbenner.com"/>
-          <outline type="rss" text="dbatools" title="dbatools" xmlUrl="https://dbatools.io/feed/" htmlUrl="https://dbatools.io"/>
-          <outline type="rss" text="MinionWare" title="MinionWare" xmlUrl="http://minionware.net/feed/" htmlUrl="http://www.minionware.net"/>
-          <outline type="rss" text="ArcticDBA" title="ArcticDBA" xmlUrl="http://www.arcticdba.se/?feed=rss2" htmlUrl="https://www.arcticdba.se"/>
-          <outline type="rss" text="Bradley Schacht" title="Bradley Schacht" xmlUrl="http://www.bradleyschacht.com/feed/" htmlUrl="http://www.bradleyschacht.com"/>
-          <outline type="rss" text="Little Ditties » Feed" title="Little Ditties » Feed" xmlUrl="http://lisagb.info/feed" htmlUrl="http://lisagb.info"/>
-          <outline type="rss" text="StraightPath Solutions SQL Blog" title="StraightPath Solutions SQL Blog" xmlUrl="http://www.straightpathsql.com/blog/atom.xml" htmlUrl="http://straightpathsql.com"/>
-          <outline type="rss" text="It's All Just Electrons" title="It's All Just Electrons" xmlUrl="http://itsalljustelectrons.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://itsalljustelectrons.blogspot.com/"/>
-      </outline>
-      <outline text="Microsoft KB Articles" title="Microsoft KB Articles">
-          <outline type="rss" text="Microsoft Support - SQL Server 2017 on Windows" title="Microsoft Support - SQL Server 2017 on Windows" xmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/cb54dbc0-87de-5eaa-8ca9-f35997ca84eb/rss" htmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/cb54dbc0-87de-5eaa-8ca9-f35997ca84eb/rss"/>
-          <outline type="rss" text="Microsoft Azure Blog &gt; Database" title="Microsoft Azure Blog &gt; Database" xmlUrl="https://azure.microsoft.com/en-us/blog/topics/database/feed/" htmlUrl="https://azure.microsoft.com/blog/topics/database/"/>
-          <outline type="rss" text="Azure service updates" title="Azure service updates" xmlUrl="https://azurecomcdn.azureedge.net/en-us/updates/feed/?product=sql-database" htmlUrl="https://azure.microsoft.com/en-us/updates/"/>
-          <outline type="rss" text="Azure service updates" title="Azure service updates" xmlUrl="http://azure.microsoft.com/en-us/updates/feed/" htmlUrl="https://azure.microsoft.com/en-us/updates/"/>
-          <outline type="rss" text="Microsoft Support - SQL Server 2016" title="Microsoft Support - SQL Server 2016" xmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/d201c5bd-9aab-36d1-0e57-5dadf52a6dad/rss" htmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/d201c5bd-9aab-36d1-0e57-5dadf52a6dad/rss"/>
-          <outline type="rss" text="Channel 9" title="Channel 9" xmlUrl="http://channel9.msdn.com/Feeds/RSS" htmlUrl="https://channel9.msdn.com/"/>
-      </outline>
-  </body>
+    <head>
+        <title>Brent subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="PostgreSQL" title="PostgreSQL">
+            <outline type="rss" text="Blog – 2ndQuadrant | PostgreSQL" title="Blog – 2ndQuadrant | PostgreSQL" xmlUrl="http://blog.2ndquadrant.com/feed/" htmlUrl="https://www.2ndquadrant.com/en/blog/"/>
+            <outline type="rss" text="Bruce Momjian: Postgres Blog" title="Bruce Momjian: Postgres Blog" xmlUrl="https://momjian.us/main/rss/pgblog.xml" htmlUrl="https://momjian.us/main/blogs/pgblog.html"/>
+            <outline type="rss" text="select * from depesz;" title="select * from depesz;" xmlUrl="http://feeds.feedburner.com/depesz" htmlUrl="https://www.depesz.com"/>
+            <outline type="rss" text="Citus Data Blog" title="Citus Data Blog" xmlUrl="https://www.citusdata.com/feed.xml" htmlUrl="https://www.citusdata.com/blog/"/>
+            <outline type="rss" text="AWS Database Blog » Amazon Aurora Tag Feed" title="AWS Database Blog » Amazon Aurora Tag Feed" xmlUrl="https://aws.amazon.com/blogs/database/tag/amazon-aurora/feed/" htmlUrl="https://aws.amazon.com/blogs/database/"/>
+        </outline>
+        <outline text="SQL" title="SQL">
+            <outline type="rss" text="Deb the DBA" title="Deb the DBA" xmlUrl="https://debthedba.wordpress.com/feed/" htmlUrl="https://debthedba.wordpress.com"/>
+            <outline type="rss" text="The SQL Herald" title="The SQL Herald" xmlUrl="http://joedantoni.wordpress.com/feed/" htmlUrl="https://joeydantoni.com"/>
+            <outline type="rss" text="Ingeniously Simple" title="Ingeniously Simple" xmlUrl="https://medium.com/feed/ingeniouslysimple" htmlUrl="https://medium.com/ingeniouslysimple?source=rss----5a730ab341ce---4"/>
+            <outline type="rss" text="Befriending Dragons" title="Befriending Dragons" xmlUrl="http://cindygross.wordpress.com/feed/" htmlUrl="https://befriendingdragons.com"/>
+            <outline type="rss" text="Erin Stellato" title="Erin Stellato" xmlUrl="http://www.sqlskills.com/blogs/erin/feed/" htmlUrl="https://www.sqlskills.com/blogs/erin"/>
+            <outline type="rss" text="coding family" title="coding family" xmlUrl="https://codingfamily.net/feed/" htmlUrl="https://codingfamily.net"/>
+            <outline type="rss" text="0xSQL – SQL Server, Storage and Security" title="0xSQL – SQL Server, Storage and Security" xmlUrl="https://www.0xsql.com/feed/" htmlUrl="https://www.0xsql.com"/>
+            <outline type="rss" text="MSSQLTips - Latest SQL Server  Tips" title="MSSQLTips - Latest SQL Server  Tips" xmlUrl="http://feeds.feedburner.com/MSSQLTips-LatestSqlServerTips" htmlUrl="https://www.mssqltips.com/"/>
+            <outline type="rss" text="Port 1433" title="Port 1433" xmlUrl="http://port1433.com/feed/" htmlUrl="https://port1433.com"/>
+            <outline type="rss" text="Everyday SQL" title="Everyday SQL" xmlUrl="https://www.patrickkeisler.com/feed/" htmlUrl="https://www.patrickkeisler.com"/>
+            <outline type="rss" text="Michael J. Swart" title="Michael J. Swart" xmlUrl="http://feeds.feedburner.com/TheDatabaseWhisperer" htmlUrl="https://michaeljswart.com"/>
+            <outline type="rss" text="T-SQL Ninja" title="T-SQL Ninja" xmlUrl="https://www.tsql-ninja.com/feed/" htmlUrl="https://www.tsql-ninja.com"/>
+            <outline type="rss" text="Victoria Holt" title="Victoria Holt" xmlUrl="http://blog.victoriaholt.co.uk/feeds/posts/default" htmlUrl="https://blog.victoriaholt.co.uk/"/>
+            <outline type="rss" text="ZenBytes.Net" title="ZenBytes.Net" xmlUrl="http://zenbytes.net/?feed=rss2" htmlUrl="http://zenbytes.net"/>
+            <outline type="rss" text="David Klee" title="David Klee" xmlUrl="http://www.davidklee.net/feed/" htmlUrl="https://www.davidklee.net"/>
+            <outline type="rss" text="Michellea David, Manager DBAs, AVP" title="Michellea David, Manager DBAs, AVP" xmlUrl="https://michelleadavid.wordpress.com/feed/" htmlUrl="https://michelleadavid.wordpress.com"/>
+            <outline type="rss" text="The Desert DBA » Feed" title="The Desert DBA » Feed" xmlUrl="http://desertdba.com/feed/" htmlUrl="https://desertdba.com"/>
+            <outline type="rss" text="Paul S. Randal" title="Paul S. Randal" xmlUrl="http://feeds2.feedburner.com/PaulSRandal" htmlUrl="https://www.sqlskills.com/blogs/paul"/>
+            <outline type="rss" text="Brindle Solutions » Feed" title="Brindle Solutions » Feed" xmlUrl="http://www.brindlesolutions.com/feed/" htmlUrl="https://www.brindlesolutions.com"/>
+            <outline type="rss" text="LobsterPot Blogs" title="LobsterPot Blogs" xmlUrl="http://blogs.lobsterpot.com.au/feed/" htmlUrl="http://blogs.lobsterpot.com.au"/>
+            <outline type="rss" text="James McGillivray » Feed" title="James McGillivray » Feed" xmlUrl="https://jimbabwe.co.za/feed/" htmlUrl="https://jimbabwe.co.za"/>
+            <outline type="rss" text="Tim Radney" title="Tim Radney" xmlUrl="http://www.sqlskills.com/blogs/tim/feed/" htmlUrl="https://www.sqlskills.com/blogs/tim"/>
+            <outline type="rss" text="Desert Isle SQL" title="Desert Isle SQL" xmlUrl="http://www.desertislesql.com/wordpress1/?feed=rss2" htmlUrl="https://www.desertislesql.com/wordpress1"/>
+            <outline type="rss" text="SQLpassion" title="SQLpassion" xmlUrl="http://www.sqlpassion.at/feed/" htmlUrl="https://www.sqlpassion.at"/>
+            <outline type="rss" text="Brent Ozar" title="Brent Ozar" xmlUrl="http://feeds.feedburner.com/brent-ozar" htmlUrl="https://ozar.me"/>
+            <outline type="rss" text="Glenn's SQL Server Performance" title="Glenn's SQL Server Performance" xmlUrl="https://glennsqlperformance.com/feed/" htmlUrl="https://glennsqlperformance.com"/>
+            <outline type="rss" text="Enrico van de Laar" title="Enrico van de Laar" xmlUrl="https://www.enricovandelaar.com/feed/" htmlUrl="https://www.enricovandelaar.com"/>
+            <outline type="rss" text="Aunt Kathi's SQL Server Home" title="Aunt Kathi's SQL Server Home" xmlUrl="http://auntkathisql.com/feed/" htmlUrl="https://auntkathisql.com"/>
+            <outline type="rss" text="Niko Neugebauer" title="Niko Neugebauer" xmlUrl="http://www.nikoport.com/feed/" htmlUrl="http://www.nikoport.com"/>
+            <outline type="rss" text="Mitch Wheat" title="Mitch Wheat" xmlUrl="https://mitchwheat.com/feed/" htmlUrl="https://mitchwheat.com"/>
+            <outline type="rss" text="Jim Donahoe – SQLFlipFlopsDBA" title="Jim Donahoe – SQLFlipFlopsDBA" xmlUrl="http://sqlflipflopsdba.com/feed/" htmlUrl="http://sqlflipflopsdba.com"/>
+            <outline type="rss" text="Mr. Fox SQL" title="Mr. Fox SQL" xmlUrl="https://mrfoxsql.wordpress.com/feed/" htmlUrl="https://mrfoxsql.wordpress.com"/>
+            <outline type="rss" text="Randolph West » Feed" title="Randolph West » Feed" xmlUrl="https://rabryst.ca/feed/" htmlUrl="https://randolphwest.ca"/>
+            <outline type="rss" text="Centino Systems Blog" title="Centino Systems Blog" xmlUrl="http://www.centinosystems.com/blog/feed/" htmlUrl="http://www.centinosystems.com/blog"/>
+            <outline type="rss" text="Kendra Little's Blog &amp; Free Training" title="Kendra Little's Blog &amp; Free Training" xmlUrl="http://littlekendra.com/feed/" htmlUrl="https://littlekendra.com"/>
+            <outline type="rss" text="New Row » Feed" title="New Row » Feed" xmlUrl="http://www.martinguth.de/feed/" htmlUrl="http://www.martinguth.de"/>
+            <outline type="rss" text="Taryn Pratt" title="Taryn Pratt" xmlUrl="https://tarynpivots.com/index.xml" htmlUrl="https://tarynpivots.com/"/>
+            <outline type="rss" text="SQLGene Training" title="SQLGene Training" xmlUrl="http://www.sqlgene.com/feed/" htmlUrl="https://www.sqlgene.com"/>
+            <outline type="rss" text="Under the kover of business intelligence" title="Under the kover of business intelligence" xmlUrl="http://sqlkover.com/feed/" htmlUrl="https://sqlkover.com"/>
+            <outline type="rss" text="Andy M Mallon – AM²" title="Andy M Mallon – AM²" xmlUrl="http://am2.co/feed/" htmlUrl="https://am2.co"/>
+            <outline type="rss" text="samirbehara" title="samirbehara" xmlUrl="https://dotnetvibes.com/feed/" htmlUrl="https://samirbehara.com"/>
+            <outline type="rss" text="InfoAdvisors" title="InfoAdvisors" xmlUrl="http://blog.infoadvisors.com/index.php/feed/" htmlUrl="https://www.datamodel.com"/>
+            <outline type="rss" text="GroupBy" title="GroupBy" xmlUrl="https://groupby.org/feed/" htmlUrl="https://groupby.org"/>
+            <outline type="rss" text="Arthur's blog" title="Arthur's blog" xmlUrl="http://www.dba-art.com/feed/" htmlUrl="https://www.dba-art.com"/>
+            <outline type="rss" text="tech on Sheldon Hull" title="tech on Sheldon Hull" xmlUrl="https://www.sheldonhull.com/tags/tech/feed.xml" htmlUrl="https://www.sheldonhull.com/tags/tech/"/>
+            <outline type="rss" text="Clustering For Mere Mortals" title="Clustering For Mere Mortals" xmlUrl="http://clusteringformeremortals.com/feed/" htmlUrl="https://clusteringformeremortals.com"/>
+            <outline type="rss" text="Welcome to Ray Kim's 'blog" title="Welcome to Ray Kim's 'blog" xmlUrl="https://pianorayk.wordpress.com/feed/" htmlUrl="https://pianorayk.wordpress.com"/>
+            <outline type="rss" text="DallasDBAs.com" title="DallasDBAs.com" xmlUrl="http://dallasdbas.com/feed/" htmlUrl="https://dallasdbas.com"/>
+            <outline type="rss" text="Reitse's blog » Feed" title="Reitse's blog » Feed" xmlUrl="https://sqlreitse.home.blog/feed/" htmlUrl="https://sqlreitse.home.blog"/>
+            <outline type="rss" text="Tracy Boggiano's SQL Server Blog" title="Tracy Boggiano's SQL Server Blog" xmlUrl="http://tracyboggiano.com/feed/" htmlUrl="https://tracyboggiano.com"/>
+            <outline type="rss" text="Page Free Space" title="Page Free Space" xmlUrl="https://sqlkiwi.blogspot.com/feeds/posts/default" htmlUrl="https://www.sql.kiwi/"/>
+            <outline type="rss" text="Brent Ozar - SQL Server DBA" title="Brent Ozar - SQL Server DBA" xmlUrl="http://feeds.feedburner.com/BrentOzar-SqlServerDba" htmlUrl="https://www.brentozar.com"/>
+            <outline type="rss" text="Kevin Farlee [MSFT]'s Recent Activity" title="Kevin Farlee [MSFT]'s Recent Activity" xmlUrl="https://social.technet.microsoft.com:443/Profile/u/activities/feed?displayName=Kevin%20Farlee%20%5BMSFT%5D" htmlUrl="http://social.technet.microsoft.com/Profile/v1/Kevin%20Farlee%20%5BMSFT%5D/activity"/>
+            <outline type="rss" text="SQLServerUpdates.com" title="SQLServerUpdates.com" xmlUrl="http://sqlserverupdates.com/feed/" htmlUrl="https://sqlserverupdates.com"/>
+            <outline type="rss" text="SQL Server articles" title="SQL Server articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SQLServer" htmlUrl="https://techcommunity.microsoft.com/t5/sql-server/bg-p/SQLServer"/>
+            <outline type="rss" text="Sunday morning T" title="Sunday morning T" xmlUrl="http://sqlsunday.com/feed/" htmlUrl="https://sqlsunday.com"/>
+            <outline type="rss" text="String or binary data would be truncated" title="String or binary data would be truncated" xmlUrl="http://blog.bartekr.net/feed/" htmlUrl="https://blog.bartekr.net"/>
+            <outline type="rss" text="SQL Data Partners" title="SQL Data Partners" xmlUrl="http://sqldatapartners.com/feed/" htmlUrl="https://sqldatapartners.com"/>
+            <outline type="rss" text="Garry Bargsley" title="Garry Bargsley" xmlUrl="http://blog.garrybargsley.com/feed/" htmlUrl="https://garrybargsley.com"/>
+            <outline type="rss" text="The Non-Cluttered Index" title="The Non-Cluttered Index" xmlUrl="https://thenonclutteredindex.com/feed/" htmlUrl="https://thenonclutteredindex.com"/>
+            <outline type="rss" text="Data Savvy" title="Data Savvy" xmlUrl="http://datasavvy.wordpress.com/feed/" htmlUrl="https://datasavvy.me"/>
+            <outline type="rss" text="DrewSK » Feed" title="DrewSK » Feed" xmlUrl="https://www.drewsk.tech/feed/" htmlUrl="https://www.drewsk.tech"/>
+            <outline type="rss" text="Sql Rnnr » Sql Rnnr" title="Sql Rnnr » Sql Rnnr" xmlUrl="http://jasonbrimhall.info/feed/" htmlUrl="https://jasonbrimhall.info"/>
+            <outline type="rss" text="sql.sasquatch" title="sql.sasquatch" xmlUrl="http://sql-sasquatch.blogspot.com/feeds/posts/default" htmlUrl="http://sql-sasquatch.blogspot.com/"/>
+            <outline type="rss" text="The BIccountant" title="The BIccountant" xmlUrl="http://www.thebiccountant.com/feed/" htmlUrl="https://www.thebiccountant.com"/>
+            <outline type="rss" text="The Agile SQL Club" title="The Agile SQL Club" xmlUrl="http://feeds.feedburner.com/agilesql/Blog" htmlUrl="https://the.agilesql.club/"/>
+            <outline type="rss" text="Dave Bland » Feed" title="Dave Bland » Feed" xmlUrl="http://davebland.com/feed" htmlUrl="http://davebland.com"/>
+            <outline type="rss" text="Allan Hirt's SQL Server Blog" title="Allan Hirt's SQL Server Blog" xmlUrl="http://www.sqlha.com/Blog/syndication.axd?format=rss" htmlUrl="https://sqlha.com"/>
+            <outline type="rss" text="Greg's Ramblings" title="Greg's Ramblings" xmlUrl="https://gregdodd.me/feed/" htmlUrl="https://gregdodd.me"/>
+            <outline type="rss" text="Made2Mentor" title="Made2Mentor" xmlUrl="http://www.made2mentor.com/?feed=atom" htmlUrl="http://www.made2mentor.com"/>
+            <outline type="rss" text="SQL Jana" title="SQL Jana" xmlUrl="http://sqljana.wordpress.com/feed/" htmlUrl="https://sqljana.wordpress.com"/>
+            <outline type="rss" text="SQL Server Code,Tips and Tricks, Performance Tuning" title="SQL Server Code,Tips and Tricks, Performance Tuning" xmlUrl="http://sqlservercode.blogspot.com/atom.xml" htmlUrl="http://sqlservercode.blogspot.com/"/>
+            <outline type="rss" text="Mark V SQL" title="Mark V SQL" xmlUrl="http://markvsql.com/feed/" htmlUrl="https://markvsql.com"/>
+            <outline type="rss" text="Matthew McGiffen DBA" title="Matthew McGiffen DBA" xmlUrl="https://matthewmcgiffen.com/feed/" htmlUrl="https://matthewmcgiffen.com"/>
+            <outline type="rss" text="SQL Server Fast" title="SQL Server Fast" xmlUrl="https://SQLServerFast.com/feed/" htmlUrl="https://sqlserverfast.com"/>
+            <outline type="rss" text="SQL Studies" title="SQL Studies" xmlUrl="http://sqlstudies.com/feed/" htmlUrl="https://sqlstudies.com"/>
+            <outline type="rss" text="Tim Mitchell" title="Tim Mitchell" xmlUrl="http://feeds2.feedburner.com/timmitchell" htmlUrl="https://www.timmitchell.net"/>
+            <outline type="rss" text="Riepedia" title="Riepedia" xmlUrl="http://www.riepedia.net/feeds/posts/default" htmlUrl="http://www.riepedia.net/"/>
+            <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="http://cwebbbi.spaces.live.com/feed.rss" htmlUrl="https://blog.crossjoin.co.uk"/>
+            <outline type="rss" text="Glenn Berry" title="Glenn Berry" xmlUrl="http://www.sqlskills.com/blogs/glenn/feed/" htmlUrl="https://www.sqlskills.com/blogs/glenn"/>
+            <outline type="rss" text="Steve Stedman" title="Steve Stedman" xmlUrl="http://stevestedman.com/feed/" htmlUrl="https://stevestedman.com"/>
+            <outline type="rss" text="Cathrine Wilhelmsen" title="Cathrine Wilhelmsen" xmlUrl="http://www.cathrinewilhelmsen.net/feed/" htmlUrl="https://www.cathrinewilhelmsen.net"/>
+            <outline type="rss" text="Jonathan Kehayias" title="Jonathan Kehayias" xmlUrl="http://www.sqlskills.com/BLOGS/jonathan/syndication.axd" htmlUrl="https://www.sqlskills.com/blogs/jonathan"/>
+            <outline type="rss" text="The SERO Group" title="The SERO Group" xmlUrl="http://theserogroup.com/feed/" htmlUrl="http://theserogroup.com"/>
+            <outline type="rss" text="John Morehouse" title="John Morehouse" xmlUrl="http://sqlrus.com/feed/" htmlUrl="https://sqlrus.com"/>
+            <outline type="rss" text="SQL aus Hamburg" title="SQL aus Hamburg" xmlUrl="http://www.sql-aus-hamburg.de/feed/" htmlUrl="https://www.sql-aus-hamburg.de"/>
+            <outline type="rss" text="Mike Scalise » Feed" title="Mike Scalise » Feed" xmlUrl="https://www.michaelscalise.com/feed/" htmlUrl="https://www.michaelscalise.com"/>
+            <outline type="rss" text="SQL Server Consulting » Feed" title="SQL Server Consulting » Feed" xmlUrl="http://procuresql.com/feed/" htmlUrl="https://procuresql.com"/>
+            <outline type="rss" text="SQL with Bert" title="SQL with Bert" xmlUrl="https://bertwagner.com/feed/" htmlUrl="https://bertwagner.com"/>
+            <outline type="rss" text="Curious..about data" title="Curious..about data" xmlUrl="https://curiousaboutdata.com/feed/" htmlUrl="https://curiousaboutdata.com"/>
+            <outline type="rss" text="SqlWorldWide" title="SqlWorldWide" xmlUrl="http://sqlworldwide.com/feed/" htmlUrl="https://SqlWorldWide.com"/>
+            <outline type="rss" text="James Serra's Blog" title="James Serra's Blog" xmlUrl="http://feeds.feedburner.com/JamesSerra" htmlUrl="https://www.jamesserra.com"/>
+            <outline type="rss" text="MlakarTechTalk" title="MlakarTechTalk" xmlUrl="https://www.mlakartechtalk.com/feed/" htmlUrl="https://www.mlakartechtalk.com"/>
+            <outline type="rss" text="Tim Harkin » Feed" title="Tim Harkin » Feed" xmlUrl="https://timharkin.com/feed/" htmlUrl="https://timharkin.com"/>
+            <outline type="rss" text="The Lone DBA" title="The Lone DBA" xmlUrl="http://thelonedba.wordpress.com/feed/" htmlUrl="https://thelonedba.wordpress.com"/>
+            <outline type="rss" text="Database Consultant » Feed" title="Database Consultant » Feed" xmlUrl="https://richardbriansmith.com/feed/" htmlUrl="https://richardbriansmith.com"/>
+            <outline type="rss" text="Jen Stirrup's Business Intelligence Blog" title="Jen Stirrup's Business Intelligence Blog" xmlUrl="http://www.jenstirrup.com/feeds/posts/default" htmlUrl="https://jenstirrup.com"/>
+            <outline type="rss" text="MinionWare" title="MinionWare" xmlUrl="http://minionware.net/feed/" htmlUrl="http://www.minionware.net"/>
+            <outline type="rss" text="Bradley Schacht" title="Bradley Schacht" xmlUrl="http://www.bradleyschacht.com/feed/" htmlUrl="http://www.bradleyschacht.com"/>
+            <outline type="rss" text="StraightPath Solutions SQL Blog" title="StraightPath Solutions SQL Blog" xmlUrl="http://www.straightpathsql.com/blog/atom.xml" htmlUrl="http://straightpathsql.com"/>
+            <outline type="rss" text="It's All Just Electrons" title="It's All Just Electrons" xmlUrl="http://itsalljustelectrons.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://itsalljustelectrons.blogspot.com/"/>
+            <outline type="rss" text="skreebydba" title="skreebydba" xmlUrl="http://skreebydba.com/feed/" htmlUrl="https://skreebydba.com"/>
+            <outline type="rss" text="Todd Kleinhans" title="Todd Kleinhans" xmlUrl="https://toddkleinhans.wordpress.com/feed/" htmlUrl="https://toddkleinhans.wordpress.com"/>
+            <outline type="rss" text="Michael Swart, Database Whisperer" title="Michael Swart, Database Whisperer" xmlUrl="http://feeds.feedburner.com/MichaelSwart" htmlUrl="https://michaeljswart.com"/>
+            <outline type="rss" text="Born SQL" title="Born SQL" xmlUrl="https://bornsql.ca/feed/" htmlUrl="https://bornsql.ca"/>
+            <outline type="rss" text="Josh the Coder" title="Josh the Coder" xmlUrl="http://joshthecoder.com/feed.xml" htmlUrl="https://joshthecoder.com/"/>
+            <outline type="rss" text="Ryan Adams Blog" title="Ryan Adams Blog" xmlUrl="http://feeds.feedburner.com/RyanAdamsBlog" htmlUrl="https://www.ryanjadams.com"/>
+            <outline type="rss" text="Paul Turley" title="Paul Turley" xmlUrl="http://sqlserverbiblog.wordpress.com/feed/" htmlUrl="https://sqlserverbi.blog"/>
+            <outline type="rss" text="Ben Miller (@DBAduck)" title="Ben Miller (@DBAduck)" xmlUrl="http://dbaduck.com/feed/" htmlUrl="https://dbaduck.com"/>
+            <outline type="rss" text="{coding}Sight" title="{coding}Sight" xmlUrl="http://codingsight.com/feed/" htmlUrl="https://codingsight.com"/>
+            <outline type="rss" text="Sql Quantum Leap" title="Sql Quantum Leap" xmlUrl="https://sqlquantumleap.com/feed/" htmlUrl="https://sqlquantumleap.com"/>
+            <outline type="rss" text="facility9" title="facility9" xmlUrl="http://facility9.com/feed/atom/" htmlUrl="https://facility9.com"/>
+            <outline type="rss" text="Thomas LaRock" title="Thomas LaRock" xmlUrl="http://feeds.feedburner.com/SQLRockstar" htmlUrl="https://thomaslarock.com"/>
+            <outline type="rss" text="Code Juicer" title="Code Juicer" xmlUrl="https://codejuicer.com/feed/" htmlUrl="https://codejuicer.com"/>
+            <outline type="rss" text="Azure SQLDB Managed Instance" title="Azure SQLDB Managed Instance" xmlUrl="https://medium.com/feed/azure-sqldb-managed-instance" htmlUrl="https://medium.com/azure-sqldb-managed-instance?source=rss----654580dc67c6---4"/>
+            <outline type="rss" text="SQL Undercover" title="SQL Undercover" xmlUrl="https://sqlundercover.com/feed/" htmlUrl="https://sqlundercover.com"/>
+            <outline type="rss" text="Erik Darling Data" title="Erik Darling Data" xmlUrl="http://erikdarlingdata.com/feed/" htmlUrl="https://www.erikdarlingdata.com"/>
+            <outline type="rss" text="atom" title="atom" xmlUrl="https://github.com/joesackmsft.atom" htmlUrl="https://github.com/joesackmsft"/>
+            <outline type="rss" text="Another SQL Geek" title="Another SQL Geek" xmlUrl="http://anothersqlgeek.wordpress.com/feed/" htmlUrl="https://anothersqlgeek.wordpress.com"/>
+            <outline type="rss" text="SQLvariations: SQL Server, a little PowerShell, maybe some Hyper-V" title="SQLvariations: SQL Server, a little PowerShell, maybe some Hyper-V" xmlUrl="http://feeds.feedburner.com/Sqlvariations" htmlUrl="http://sqlvariant.com"/>
+            <outline type="rss" text="Shaun Austin" title="Shaun Austin" xmlUrl="http://moochingtusk.wordpress.com/feed/" htmlUrl="https://moochingtusk.wordpress.com"/>
+            <outline type="rss" text="Coeo Blog" title="Coeo Blog" xmlUrl="https://blog.coeo.com/rss.xml" htmlUrl="https://blog.coeo.com"/>
+            <outline type="rss" text="dansqldba.com » Feed" title="dansqldba.com » Feed" xmlUrl="https://dansqldba.com/feed/" htmlUrl="https://dansqldba.com"/>
+            <outline type="rss" text="All About SQL" title="All About SQL" xmlUrl="https://blobeater.blog/feed/" htmlUrl="https://blobeater.blog"/>
+            <outline type="rss" text="DataHelge" title="DataHelge" xmlUrl="https://www.datahelge.no/feed/" htmlUrl="https://www.datahelge.no"/>
+            <outline type="rss" text="SQLAgentMan" title="SQLAgentMan" xmlUrl="http://www.ford-it.com/sqlagentman/?feed=rss2" htmlUrl="http://www.ford-it.com/sqlagentman"/>
+            <outline type="rss" text="SQL Server Support articles" title="SQL Server Support articles" xmlUrl="https://techcommunity.microsoft.com/gxcuf89792/rss/board?board.id=SQLServerSupport" htmlUrl="https://techcommunity.microsoft.com/t5/sql-server-support/bg-p/SQLServerSupport"/>
+            <outline type="rss" text="SQL DBA with A Beard" title="SQL DBA with A Beard" xmlUrl="http://sqldbawithabeard.com/feed/" htmlUrl="https://sqldbawithabeard.com"/>
+            <outline type="rss" text="Women – Technology – Society" title="Women – Technology – Society" xmlUrl="https://witsociety.wordpress.com/feed/" htmlUrl="https://witsociety.wordpress.com"/>
+            <outline type="rss" text="Arcane Code" title="Arcane Code" xmlUrl="http://arcanecode.wordpress.com/feed/" htmlUrl="https://arcanecode.com"/>
+            <outline type="rss" text="Forrest Shares Stuff" title="Forrest Shares Stuff" xmlUrl="https://forrestmcdaniel.com/feed/" htmlUrl="https://forrestmcdaniel.com"/>
+            <outline type="rss" text="No Column Name" title="No Column Name" xmlUrl="https://nocolumnname.wordpress.com/feed/" htmlUrl="https://nocolumnname.blog"/>
+            <outline type="rss" text="RSS Feed" title="RSS Feed" xmlUrl="https://www.coatesdatastrategies.com/blog?format=RSS" htmlUrl="https://www.coatesdatastrategies.com/blog/"/>
+            <outline type="rss" text="Mohammad Darab" title="Mohammad Darab" xmlUrl="https://mohammaddarab.com/feed/" htmlUrl="https://mohammaddarab.com"/>
+            <outline type="rss" text="SQL in the Wild" title="SQL in the Wild" xmlUrl="http://sqlinthewild.co.za/index.php/feed/" htmlUrl="https://sqlinthewild.co.za"/>
+            <outline type="rss" text="Super Scaling Queues Using the LMax Disruptor Pattern" title="Super Scaling Queues Using the LMax Disruptor Pattern" xmlUrl="http://chrisadkin.org/feed/" htmlUrl="https://chrisadkin.io"/>
+            <outline type="rss" text="SQL Melody" title="SQL Melody" xmlUrl="https://www.sqlmelody.com/feed/" htmlUrl="https://www.sqlmelody.com"/>
+            <outline type="rss" text="sqlfingers.com" title="sqlfingers.com" xmlUrl="http://www.sqlfingers.com/feeds/posts/default" htmlUrl="http://www.sqlfingers.com/"/>
+            <outline type="rss" text="SQL Server with Mr. Denny" title="SQL Server with Mr. Denny" xmlUrl="http://itknowledgeexchange.techtarget.com/sql-server/feed/" htmlUrl="https://itknowledgeexchange.techtarget.com/sql-server"/>
+            <outline type="rss" text="SQLKohai - always a student » Feed" title="SQLKohai - always a student » Feed" xmlUrl="http://www.sqlkohai.com/feed/" htmlUrl="http://www.sqlkohai.com"/>
+            <outline type="rss" text="Gethyn Ellis - SQL Server, BI, Analytics, Cloud and Architecture" title="Gethyn Ellis - SQL Server, BI, Analytics, Cloud and Architecture" xmlUrl="http://www.gethynellis.com/feeds/posts/default" htmlUrl="https://www.gethynellis.com/"/>
+            <outline type="rss" text="Wayne Sheffield" title="Wayne Sheffield" xmlUrl="http://blog.waynesheffield.com/wayne/feed/" htmlUrl="https://blog.waynesheffield.com/wayne"/>
+            <outline type="rss" text="SQLSwimmer" title="SQLSwimmer" xmlUrl="http://sqlswimmer.wordpress.com/feed/" htmlUrl="https://sqlswimmer.com"/>
+            <outline type="rss" text="SQL Server Consulting – Straight Path Solutions" title="SQL Server Consulting – Straight Path Solutions" xmlUrl="http://feeds.feedburner.com/StraightpathSolutionsSqlBlog" htmlUrl="http://straightpathsql.com"/>
+            <outline type="rss" text="SchottSQL" title="SchottSQL" xmlUrl="https://schottsql.wordpress.com/feed/" htmlUrl="https://schottsql.com"/>
+            <outline type="rss" text="SQL Server" title="SQL Server" xmlUrl="http://milossql.wordpress.com/feed/" htmlUrl="https://milossql.wordpress.com"/>
+            <outline type="rss" text="Jess Pomfret" title="Jess Pomfret" xmlUrl="https://jesspomfret.com/feed/" htmlUrl="https://jesspomfret.com"/>
+            <outline type="rss" text="youdidwhatwithtsql.com" title="youdidwhatwithtsql.com" xmlUrl="http://www.youdidwhatwithtsql.com/feed" htmlUrl="http://www.youdidwhatwithtsql.com"/>
+            <outline type="rss" text="David Barbarin" title="David Barbarin" xmlUrl="http://blog.developpez.com/mikedavem/feed" htmlUrl="https://blog.developpez.com/mikedavem"/>
+            <outline type="rss" text="Ned Otter Blog" title="Ned Otter Blog" xmlUrl="http://nedotter.com/feed/" htmlUrl="http://nedotter.com"/>
+            <outline type="rss" text="MarlonRibunal.com" title="MarlonRibunal.com" xmlUrl="http://feeds.feedburner.com/MarlonRibunal" htmlUrl="https://marlonribunal.com"/>
+            <outline type="rss" text="Caffeinated Data Science" title="Caffeinated Data Science" xmlUrl="http://buckwoody.wordpress.com/feed/" htmlUrl="https://buckwoody.wordpress.com"/>
+            <outline type="rss" text="Project Botticelli" title="Project Botticelli" xmlUrl="http://projectbotticelli.com/rss.xml" htmlUrl="https://projectbotticelli.com/news"/>
+            <outline type="rss" text="SQLAndy" title="SQLAndy" xmlUrl="http://feeds.feedburner.com/itdepends" htmlUrl="https://sqlandy.com"/>
+            <outline type="rss" text="DBA From The Cold" title="DBA From The Cold" xmlUrl="http://dbafromthecold.wordpress.com/feed/" htmlUrl="https://dbafromthecold.com"/>
+            <outline type="rss" text="Cláudio Silva's Blog" title="Cláudio Silva's Blog" xmlUrl="https://claudioessilva.eu/feed/" htmlUrl="https://claudioessilva.eu"/>
+            <outline type="rss" text="36 Chambers – The Legendary Journeys: Execution to the max!" title="36 Chambers – The Legendary Journeys: Execution to the max!" xmlUrl="http://36chambers.wordpress.com/feed/" htmlUrl="https://36chambers.wordpress.com"/>
+            <outline type="rss" text="Kevin E. Kline" title="Kevin E. Kline" xmlUrl="http://kevinekline.com/feed/" htmlUrl="https://kevinekline.com"/>
+            <outline type="rss" text="SQLPerformance.com" title="SQLPerformance.com" xmlUrl="http://www.sqlperformance.com/feed" htmlUrl="https://sqlperformance.com"/>
+            <outline type="rss" text="AndyLeonard.blog()" title="AndyLeonard.blog()" xmlUrl="http://andyleonard.blog/feed/" htmlUrl="https://andyleonard.blog"/>
+            <outline type="rss" text="SQL TECH BLOG" title="SQL TECH BLOG" xmlUrl="https://sqltechblog.com/feed/" htmlUrl="https://sqltechblog.com"/>
+            <outline type="rss" text="George Stocker" title="George Stocker" xmlUrl="http://georgestocker.com/feed/" htmlUrl="https://georgestocker.com"/>
+            <outline type="rss" text="SQL Doch" title="SQL Doch" xmlUrl="https://blog.sqldoch.ca/feeds/posts/default" htmlUrl="https://blog.sqldoch.ca/"/>
+            <outline type="rss" text="The SQL Professor" title="The SQL Professor" xmlUrl="http://chrisyatessql.wordpress.com/feed/" htmlUrl="https://chrisyatessql.com"/>
+            <outline type="rss" text="boB 'The ToolMan' Taylor » Feed" title="boB 'The ToolMan' Taylor » Feed" xmlUrl="http://www.sqlbobt.com/feed/" htmlUrl="http://www.sqlbobt.com"/>
+            <outline type="rss" text=" Database Administration, Development and Analysis - RSS" title=" Database Administration, Development and Analysis - RSS" xmlUrl="https://www.sqlguatemala.com/feeds/posts/default?alt=rss" htmlUrl="https://www.sqlguatemala.com/"/>
+            <outline type="rss" text="spaghettidba" title="spaghettidba" xmlUrl="http://spaghettidba.com/feed/" htmlUrl="https://spaghettidba.com"/>
+            <outline type="rss" text="FLX SQL with Andy Levy" title="FLX SQL with Andy Levy" xmlUrl="https://flxsql.com/feed/" htmlUrl="https://flxsql.com"/>
+            <outline type="rss" text="Bob Pusateri - The Outer Join" title="Bob Pusateri - The Outer Join" xmlUrl="http://www.bobpusateri.com/feed/" htmlUrl="https://www.bobpusateri.com"/>
+            <outline type="rss" text="Andrea Allred presents RoyalSQL" title="Andrea Allred presents RoyalSQL" xmlUrl="http://royalsql.com/feed/" htmlUrl="https://royalsql.com"/>
+            <outline type="rss" text="netnerds.net" title="netnerds.net" xmlUrl="http://blog.netnerds.net/feed/" htmlUrl="https://blog.netnerds.net"/>
+            <outline type="rss" text="Journey to SQL Authority with Pinal Dave" title="Journey to SQL Authority with Pinal Dave" xmlUrl="http://blog.sqlauthority.com/feed/" htmlUrl="https://blog.sqlauthority.com"/>
+            <outline type="rss" text="Chris Webb's BI Blog" title="Chris Webb's BI Blog" xmlUrl="http://cwebbbi.wordpress.com/feed/" htmlUrl="https://blog.crossjoin.co.uk"/>
+            <outline type="rss" text="Notes on SQL" title="Notes on SQL" xmlUrl="https://sqlrambling.net/feed/" htmlUrl="https://sqlrambling.net"/>
+            <outline type="rss" text="SQL Server Consulting &amp; Remote DBA Service" title="SQL Server Consulting &amp; Remote DBA Service" xmlUrl="http://johnsterrett.com/feed/" htmlUrl="https://johnsterrett.com"/>
+            <outline type="rss" text="Databasejournal.com" title="Databasejournal.com" xmlUrl="http://www.databasejournal.com/icom_includes/feeds/dbjournal/xml_front-10.xml" htmlUrl="https://www.databasejournal.com"/>
+            <outline type="rss" text="SQL Player" title="SQL Player" xmlUrl="http://sqlplayer.net/feed" htmlUrl="https://sqlplayer.net"/>
+            <outline type="rss" text="The Data Platform Insider" title="The Data Platform Insider" xmlUrl="http://blogs.technet.com/dataplatforminsider/atom.xml" htmlUrl="https://cloudblogs.microsoft.com/sqlserver"/>
+            <outline type="rss" text="sql Records" title="sql Records" xmlUrl="http://sqlrecords.blogspot.com/feeds/posts/default" htmlUrl="http://sqlrecords.blogspot.com/"/>
+            <outline type="rss" text="Paul's Electronics" title="Paul's Electronics" xmlUrl="http://www.sqlskills.com/blogs/paulselec/syndication.axd?format=rss" htmlUrl="http://www.sqlskills.com/blogs/paulselec/"/>
+            <outline type="rss" text="The Goal Keeping DBA" title="The Goal Keeping DBA" xmlUrl="http://gkdba.wordpress.com/feed/" htmlUrl="https://gkdba.wordpress.com"/>
+            <outline type="rss" text="| SQLMac" title="| SQLMac" xmlUrl="https://sqlmac.com/feed/" htmlUrl="https://sqlmac.com"/>
+            <outline type="rss" text="diligentdba" title="diligentdba" xmlUrl="http://diligentdba.wordpress.com/feed/" htmlUrl="https://diligentdba.com"/>
+            <outline type="rss" text="SQL Server Blog" title="SQL Server Blog" xmlUrl="http://blogs.technet.com/dataplatforminsider/rss.xml" htmlUrl="https://cloudblogs.microsoft.com/sqlserver"/>
+            <outline type="rss" text="Kevin Chant » Feed" title="Kevin Chant » Feed" xmlUrl="https://www.kevinrchant.com/feed/" htmlUrl="https://www.kevinrchant.com"/>
+            <outline type="rss" text="SQL Server Techniques" title="SQL Server Techniques" xmlUrl="http://slavasql.blogspot.com/feeds/posts/default" htmlUrl="http://slavasql.blogspot.com/"/>
+            <outline type="rss" text="Richard Lees on BI" title="Richard Lees on BI" xmlUrl="http://richardlees.blogspot.com/feeds/posts/default" htmlUrl="http://richardlees.blogspot.com/"/>
+            <outline type="rss" text="SQLozano" title="SQLozano" xmlUrl="https://www.sqlozano.com/feed/" htmlUrl="https://www.sqlozano.com"/>
+            <outline type="rss" text="Hydrate Consulting LLC" title="Hydrate Consulting LLC" xmlUrl="https://www.hydrate.consulting/blog/feed/" htmlUrl="https://www.hydrate.consulting/blog"/>
+            <outline type="rss" text="SQLBI" title="SQLBI" xmlUrl="http://feeds.feedburner.com/sqlbi_blog/" htmlUrl="https://www.sqlbi.com"/>
+            <outline type="rss" text="DataPerf Professionals" title="DataPerf Professionals" xmlUrl="http://dataperfpro.com/feed/" htmlUrl="http://dataperfpro.com"/>
+            <outline type="rss" text="Prodata Blog" title="Prodata Blog" xmlUrl="http://blogs.prodata.ie/syndication.axd" htmlUrl="http://blogs.prodata.ie/"/>
+            <outline type="rss" text="SQL Stad" title="SQL Stad" xmlUrl="http://www.sqlstad.nl/feed/" htmlUrl="https://www.sqlstad.nl"/>
+            <outline type="rss" text="Tibor Karaszi's SQL Server blog" title="Tibor Karaszi's SQL Server blog" xmlUrl="http://sqlblog.karaszi.com/feed/" htmlUrl="http://sqlblog.karaszi.com"/>
+            <outline type="rss" text="PASS Blog" title="PASS Blog" xmlUrl="http://feeds.feedburner.com/Official_PASS_Blog" htmlUrl="https://www.pass.org/Community/PASSBlog.aspx"/>
+            <outline type="rss" text="Craig Porteous" title="Craig Porteous" xmlUrl="https://craigporteous.com/feed/" htmlUrl="https://craigporteous.com"/>
+            <outline type="rss" text="SQLBlog.org" title="SQLBlog.org" xmlUrl="https://sqlblog.org/feed" htmlUrl="https://sqlblog.org"/>
+            <outline type="rss" text="Opinionated SQL" title="Opinionated SQL" xmlUrl="http://www.seangallardy.com/feed/" htmlUrl="https://www.seangallardy.com"/>
+            <outline type="rss" text="SQL Awesomesauce" title="SQL Awesomesauce" xmlUrl="http://www.midnightdba.com/Jen/feed/" htmlUrl="http://www.midnightdba.com/Jen"/>
+            <outline type="rss" text="Rich Benner – SQL Server Consulting" title="Rich Benner – SQL Server Consulting" xmlUrl="https://richbenner.com/feed/" htmlUrl="https://richbenner.com"/>
+            <outline type="rss" text="dbatools" title="dbatools" xmlUrl="https://dbatools.io/feed/" htmlUrl="https://dbatools.io"/>
+            <outline type="rss" text="ArcticDBA" title="ArcticDBA" xmlUrl="http://www.arcticdba.se/?feed=rss2" htmlUrl="https://www.arcticdba.se"/>
+            <outline type="rss" text="Little Ditties » Feed" title="Little Ditties » Feed" xmlUrl="http://lisagb.info/feed" htmlUrl="http://lisagb.info"/>
+        </outline>
+        <outline text="SQL Forums" title="SQL Forums">
+            <outline type="rss" text="r/Database Subreddit Links" title="r/Database Subreddit Links" xmlUrl="https://api.reddit.com/subreddit/Database/b9b4bcd6-0872-437f-91b5-5ab7e37ac8a3" htmlUrl="https://www.reddit.com/r/Database"/>
+            <outline type="rss" text="r/SQLServer Subreddit Links" title="r/SQLServer Subreddit Links" xmlUrl="https://api.reddit.com/subreddit/SQLServer/b9b4bcd6-0872-437f-91b5-5ab7e37ac8a3" htmlUrl="https://www.reddit.com/r/SQLServer"/>
+            <outline type="rss" text="r/SQL Subreddit Links" title="r/SQL Subreddit Links" xmlUrl="https://api.reddit.com/subreddit/SQL/b9b4bcd6-0872-437f-91b5-5ab7e37ac8a3" htmlUrl="https://www.reddit.com/r/SQL"/>
+        </outline>
+        <outline text="Microsoft KB Articles" title="Microsoft KB Articles">
+            <outline type="rss" text="Microsoft Support - SQL Server 2017 on Windows" title="Microsoft Support - SQL Server 2017 on Windows" xmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/cb54dbc0-87de-5eaa-8ca9-f35997ca84eb/rss" htmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/cb54dbc0-87de-5eaa-8ca9-f35997ca84eb/rss"/>
+            <outline type="rss" text="Microsoft Azure Blog &gt; Database" title="Microsoft Azure Blog &gt; Database" xmlUrl="https://azure.microsoft.com/en-us/blog/topics/database/feed/" htmlUrl="https://azure.microsoft.com/blog/topics/database/"/>
+            <outline type="rss" text="Azure service updates" title="Azure service updates" xmlUrl="https://azurecomcdn.azureedge.net/en-us/updates/feed/?product=sql-database" htmlUrl="https://azure.microsoft.com/en-us/updates/"/>
+            <outline type="rss" text="Azure service updates" title="Azure service updates" xmlUrl="http://azure.microsoft.com/en-us/updates/feed/" htmlUrl="https://azure.microsoft.com/en-us/updates/"/>
+            <outline type="rss" text="Microsoft Support - SQL Server 2016" title="Microsoft Support - SQL Server 2016" xmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/d201c5bd-9aab-36d1-0e57-5dadf52a6dad/rss" htmlUrl="https://support.microsoft.com/app/content/api/content/feeds/sap/en-us/d201c5bd-9aab-36d1-0e57-5dadf52a6dad/rss"/>
+            <outline type="rss" text="Channel 9" title="Channel 9" xmlUrl="http://channel9.msdn.com/Feeds/RSS" htmlUrl="https://channel9.msdn.com/"/>
+        </outline>
+    </body>
 </opml>
